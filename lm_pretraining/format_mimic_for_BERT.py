@@ -1,3 +1,12 @@
+"""
+Python 3.8.1
+
+pip install pipwin
+pipwin install psycopg2
+pip install cpython
+
+"""
+
 import psycopg2
 import pandas as pd
 import sys
