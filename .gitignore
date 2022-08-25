@@ -1,3 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+/pretrained_bert_tf.tar.gz
+/tokenized_notes
